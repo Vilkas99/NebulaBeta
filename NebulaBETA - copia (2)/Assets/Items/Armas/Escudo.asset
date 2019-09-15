@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d1153c4dd3d6e44681e5a74a9fe0ea9, type: 3}
+  m_Name: Escudo
+  m_EditorClassIdentifier: 
+  nombre: Escudo
+  icono: {fileID: 21300000, guid: bcaaaffddc21e0443b4cd3440332023f, type: 3}
+  esDefault: 0
+  tipoEquipamiento: 4
+  mesh: {fileID: 137271648324959684, guid: 9224b1b8247dc274a8f39f2043fa262e, type: 2}
+  regionMeshCubierta: 
+  modArmadura: 3
+  "modDa\xF1o": 0
+  modSanacion: 0

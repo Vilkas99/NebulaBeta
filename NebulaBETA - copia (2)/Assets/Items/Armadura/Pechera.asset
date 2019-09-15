@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d1153c4dd3d6e44681e5a74a9fe0ea9, type: 3}
+  m_Name: Pechera
+  m_EditorClassIdentifier: 
+  nombre: Pechera
+  icono: {fileID: 21300000, guid: 37e219c4cdf0cb940a91eb1b2502932d, type: 3}
+  esDefault: 0
+  tipoEquipamiento: 1
+  mesh: {fileID: 137336448051810664, guid: 2791c0625c66ad044a11b20a36012a7f, type: 2}
+  regionMeshCubierta: 0100000000000000
+  modArmadura: 3
+  "modDa\xF1o": 0
+  modSanacion: 0

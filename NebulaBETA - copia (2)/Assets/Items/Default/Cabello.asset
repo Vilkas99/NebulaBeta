@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d1153c4dd3d6e44681e5a74a9fe0ea9, type: 3}
+  m_Name: Cabello
+  m_EditorClassIdentifier: 
+  nombre: Cabello
+  icono: {fileID: 0}
+  esDefault: 1
+  tipoEquipamiento: 0
+  mesh: {fileID: 137942431743813538, guid: be5cd344a8ec8db4aa309467e02cd774, type: 2}
+  regionMeshCubierta: 
+  modArmadura: 0
+  "modDa\xF1o": 0

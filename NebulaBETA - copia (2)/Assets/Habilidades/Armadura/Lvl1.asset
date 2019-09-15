@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 050faed0e3c81c44e8673513b5e145c5, type: 3}
+  m_Name: Lvl1
+  m_EditorClassIdentifier: 
+  tipoDeHabilidad: 0
+  nombre: Armadura Lvl 1
+  costeMana: 10
+  coolDown0: 10
+  seDisipaConTiempo: 1
+  duracion: 5
+  iconoEfecto: {fileID: 21300000, guid: 5a9a049e3ae0ace49bc1b811fd38e6d8, type: 3}
+  iconoHabilidad: {fileID: 21300000, guid: 8462241f829cc7841add83b17275c4dd, type: 3}
+  iconoHabilidadPresionada: {fileID: 21300000, guid: 648654ea6d10ca94092f2f041e0054c1,
+    type: 3}
+  presionada: 0
+  evaluandoRespuesta: 0
+  ejecutandose: 0
+  coolDownActivado: 0
+  iconoYaEstablecido: 0
+  modArmadura: 6

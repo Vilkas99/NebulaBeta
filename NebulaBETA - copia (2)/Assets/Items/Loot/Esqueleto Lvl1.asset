@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb40511163efafd4798971c7c06faa60, type: 3}
+  m_Name: Esqueleto Lvl1
+  m_EditorClassIdentifier: 
+  itemsLoot:
+  - {fileID: 11400000, guid: 6afb4c3c49491e2449d0d4670dc7cbed, type: 2}
+  - {fileID: 11400000, guid: 116bcedc0eef5be44a2cb188d07d480f, type: 2}
+  - {fileID: 11400000, guid: dcb036743717be24fb86655616206373, type: 2}
+  iconoEnemigoMuerto: {fileID: 21300000, guid: 7bcd2be0436bb9347b75075ff771f6dc, type: 3}
